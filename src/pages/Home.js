@@ -8,7 +8,7 @@ function Home() {
       <h2 className="page-title">Academic Profile</h2>
       
       <div className="profile-section">
-        <img src="/images/photo.png" alt="Professor Dhaval Patel" className="profile-image" />
+      <img src="/images/photo.png" alt="Dr. Dhaval U. Patel" className="profile-image" />
         <div className="profile-details">
           <h3>Dr. Dhaval U. Patel, Ph.D.</h3>
           <p>Assistant Professor of Electronics and Communcation Engineering</p>
